@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/fabionogueira/static/css/main.56e5e439.css",
-    "main.js": "/fabionogueira/static/js/main.b29fb955.js",
+    "main.js": "/fabionogueira/static/js/main.c7a5633e.js",
     "static/js/453.4462c1e9.chunk.js": "/fabionogueira/static/js/453.4462c1e9.chunk.js",
     "static/media/color-sharp.png": "/fabionogueira/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/fabionogueira/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/fabionogueira/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/fabionogueira/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/fabionogueira-pc.jpeg": "/fabionogueira/static/media/fabionogueira-pc.1806dcda3d1feef28a3b.jpeg",
+    "static/media/magento2.jpeg": "/fabionogueira/static/media/magento2.a96f9bffcd58a2e2583a.jpeg",
     "static/media/CentraNo2-Bold.ttf": "/fabionogueira/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/fabionogueira/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/fabionogueira/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/fabionogueira/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img3.png": "/fabionogueira/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/v2farma.jpeg": "/fabionogueira/static/media/v2farma.1c997ed54db2d04e3966.jpeg",
     "static/media/contact-img.svg": "/fabionogueira/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/loja_online_focomix_logo.jpeg": "/fabionogueira/static/media/loja_online_focomix_logo.fc0224cc431d28e58a51.jpeg",
     "static/media/revicons.eot": "/fabionogueira/static/media/revicons.a77de540a38981833f9e.eot",
@@ -27,13 +28,14 @@
     "index.html": "/fabionogueira/index.html",
     "static/media/arrow2.svg": "/fabionogueira/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/fabionogueira/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon4.svg": "/fabionogueira/static/media/nav-icon4.1a3e291597484bb38bac77b26a3979ce.svg",
     "static/media/nav-icon2.svg": "/fabionogueira/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.56e5e439.css.map": "/fabionogueira/static/css/main.56e5e439.css.map",
-    "main.b29fb955.js.map": "/fabionogueira/static/js/main.b29fb955.js.map",
+    "main.c7a5633e.js.map": "/fabionogueira/static/js/main.c7a5633e.js.map",
     "453.4462c1e9.chunk.js.map": "/fabionogueira/static/js/453.4462c1e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e5e439.css",
-    "static/js/main.b29fb955.js"
+    "static/js/main.c7a5633e.js"
   ]
 }
