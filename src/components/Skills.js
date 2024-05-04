@@ -35,19 +35,19 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>Desenvolvimento full stack envolve a criação completa de aplicativos web, combinando interface do usuário, lógica do servidor, e integração com bancos de dados como MySQL ou MongoDB. Além disso, os desenvolvedores precisam entender práticas de DevOps para garantir a implantação eficiente e segura dos aplicativos. Com o avanço da tecnologia, a integração de IA (Inteligência Artificial) também se tornou uma parte essencial do desenvolvimento, permitindo a implementação de recursos como análise de dados, recomendações personalizadas e automação de processos..</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
+                                <h5>Back-End</h5>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
-                                <h5>Brand Identity</h5>
+                                <h5>Frontend</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Logo Design</h5>
+                                <h5>Banco de Dados</h5>
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
